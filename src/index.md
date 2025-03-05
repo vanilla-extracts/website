@@ -102,8 +102,8 @@ You can find me there:
 - [GitHub, as _vanilla-extracts_](https://github.com/vanilla-extracts)
 - [Codeberg as _vanilla-extracts_](https://codeberg.org/vanilla-extracts)
 - Discord, as _vanilla_extracts_
+- Matrix as _@me:faefox.dev_
+- Mastodon as _@vanilla_extract@woof.tech_
 - Email regarding my writing, `gc [at] charlotte-thomas.me`
 - General Email, `me [at] charlotte-thomas.me`
 - Topic email, `{topic} [at] me.charlotte-thomas.me` or `me+{topic} [at] charlotte-thomas.me`
-- Threads/IG, as _vanilla.extracts_
-- [Ko-Fi as vanilla_extracts](https://ko-fi.com/vanilla_extracts)
