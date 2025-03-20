@@ -33,7 +33,7 @@ On my Hetzner server
 - A Conduwuit matrix server (*faefox.dev*)
 - A [Cinny matrix client instance](https://client.faefox.dev)
 
-On CloudFare pagte
+On CloudFare page
 
 - This [website and blog](https://charlotte-thomas.me)
 - The [writing website and blog](https://writing.charlotte-thomas.me)
