@@ -23,6 +23,7 @@ Laptop: Framework 13
   - 1x DP (top left)
   - 1x USB-C 3.2 (bottom left)
   - 1x USB-A 3.2 (bottom right)
+ 
 Screen: Dell
 - Size: 27"
 - Resolution: 2560x1440
