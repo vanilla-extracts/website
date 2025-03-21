@@ -37,7 +37,7 @@ On CloudFare page
 
 - This [website and blog](https://charlotte-thomas.me)
 - The [writing website and blog](https://writing.charlotte-thomas.me)
-- The [calc's website](https://calc.charlotte-thomas.me)
+- [Calc's website](https://calc.charlotte-thomas.me)
 
 ## Roadmap {#roadmap}
 My current TODO list:
