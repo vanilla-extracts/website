@@ -29,41 +29,56 @@ Screen: Dell
 - Resolution: 2560x1440
 - Refresh Rate: Up to 180Hz (capped at 120Hz for consistency)
 - Scale: 1.25
+
 Input:
 - Apple MagicTrackpad USB-C
 - Keychron K4 Pro QMK
   - Switches: Brown (with one green)
+ 
 2FA: Two Yubikey 5C NFC
 
 ## Software {#sw}
 Here are the different softwares I use, for more information see [the git page README](https://git.charlotte-thomas.me/vanilla-extracts/.files)
 
 OS: Fedora Linux Workstation 41
+
 WM: [Niri](https://github.com/YaLTeR/niri/) on Wayland
 - Almost stock configuration
+
 Bar: Waybar
+
 Terminal: Alacritty
 - Font: Monaspace Xenon 9pt
+
 Shell: fish
 - fzf-pass: a fish function for `pass`
 - fzf-browse: a fish function to browse files and open them
+
 Prompt: Starship
 - Modified pure prompt
+
 App Launcher: Rofi
 - Colour scheme: Catppuccin Mocha
+
 Lock: Hyprlock
 - With fingerprint
+
 Editor: neovim
 - LazyVim
 - Mason for LSPs
 - Lots of plugins
+
 Docking handler: kanshi
-Some scripts
+
 Containers: Podman
 - Language Tool Server
+
 Session Manager: GDM
+
 Finance: GNUCash
+
 Passwords: KeepassXC & pass
+
 Backups: Restic
 
 ## Images {#img}
