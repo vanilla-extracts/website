@@ -96,8 +96,8 @@ blockquote {
 }
 
 img {
-	width: 70%;
-	height: auto;
+	max-width: 70%;
+	max-height: 70%;
 }
 
 .center {
