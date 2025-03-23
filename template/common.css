@@ -34,8 +34,8 @@ header {
 	width: 100%;
 	display: flex;
 	flex-flow: row wrap;
-	justify-content: space-between;
-	align-items: center;
+	justify-content:space-between;
+	align-items:center;
 	padding: 24px;
 }
 
@@ -58,6 +58,10 @@ main {
 /* Links */
 a {
 	color: inherit;
+}
+
+.no_underline {
+	text-decoration: none;
 }
 
 a:hover {
