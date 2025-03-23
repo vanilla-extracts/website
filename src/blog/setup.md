@@ -65,4 +65,15 @@ Here are the different softwares I use, for more information see [the git page R
 - Backups: Restic
 
 ## Images {#img}
-TODO
+
+<center>
+
+### Traditional fetch {#fetch}
+[![fetch](/static/blog-screen.png)](/static/blog-screen.png)
+
+### Screen busy (with rofi) {#rofi}
+[![busy](/static/blog-screen-busy.png)](/static/blog-screen-busy.png)
+
+</center>
+
+*Updated on 2025-03-23*
