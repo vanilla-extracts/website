@@ -8,7 +8,7 @@ I use my laptop docked the vast majority of the time.
 
 - Laptop: Framework 13
   - CPU: AMD Ryzen 5 7640U 6C/12T
-  - GPU: AMD Radeon 700M 
+  - GPU: AMD Radeon 760M 
   - RAM: 1x32Go 5600MT/s DDR5
   - Storage: Lexar 512Go NVMe SSD
   - Screen:
