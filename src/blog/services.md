@@ -1,3 +1,6 @@
+{
+ "published": "2025-03-24"
+}
 # Services
 ## Ambassador {#ambassador}
 I have a few services on my Hetzner VPS/Cloud, its hostname is *ambassador*
