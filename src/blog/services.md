@@ -23,12 +23,12 @@ I use CloudFare Page to run a few static websites.
 I use _Migadu_ as my email provider. I use the micro yearly plan, for only $20
 USD a year I have everything I need. I have emails under the following domains.
 - *charlotte-thomas.me*
- - me
- - gc
+  - me
+  - gc
 - *faefox.dev*
- - me
+  - me
 - *nwa2coco.fr* (to be deleted on May 2025)
- - charlotte
+  - charlotte
 
 ## NAS {#nas}
 I have a NAS (2TB on RAID1) running on my **local** network. Its name is *Olympic* (because it
