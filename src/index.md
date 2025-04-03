@@ -2,7 +2,7 @@
 
 ### Bio {#bio}
 
-Hi! My name is Charlotte Thomas, I'm a 22 y.o French Developer, System Admin
+Hi! My name is Charlotte Thomas, I'm 22 y.o, French, and a Developer, System Admin
 (Linux Expert), and general IT Specialist. I have a good job and I like it so if you're a
 recruiter you do not need to send me an email.
 
@@ -33,8 +33,8 @@ Contact me with either of these topic emails, I will be able to answer quicker
 
 ### Writing {#writing}
 
-I am also a [_writer_](https://writing.charlotte-thomas.me). I wrote a short-story, and I used to write a novel.
-I scrapped this novel to write a new one, based on the same idea but rewritten
+I am also a [_writer_](https://writing.charlotte-thomas.me). I wrote a short-story. I'm currently writing another one.
+I’m also in the process of writing a novel, based on the old idea of *AGH* but rewritten
 from the ground up, with improved prose grammar and everything (including real
 beta-readers!). 
 
@@ -42,13 +42,14 @@ This new novel is _Galactic Consequences_ you can find the [_writing
 blog_](https://writing.charlotte-thomas.me/blog/) where I post the
 development of the novel. 
 
-The status is currently: *WIP about 25% of the first draft done*
+The status is currently: *WIP about 33% of the first draft and editting done*
 
 ## CV {#cv}
 
 ### I. Work experience {#work}
 
 - May 2025 to future: DevOps Engineer, general IT Specialist, Civil Servant. *Rennes, France*.
+
 - Sept. 2024 to May 2025: Initial training, Probationary Civil Servant, *Toulouse, France*.
 
 ### II. Education {#education}
@@ -97,8 +98,8 @@ I may change it if I want to, if you have any suggestions for fonts send me an e
 ## About Me { #about-me }
 I am using she/they pronouns and feminine accords. 
 
-You can find my [writing website](https://writing.charlotte-thomas.me),
-it's the blog and central place where I gush or vent about my life and from time to time, what I write as well.
+You can find my [writing website here](https://writing.charlotte-thomas.me),
+it's the writing log exposing, what I write and associated projects.
 
 You can find me there:
 - [GitHub, as _vanilla-extracts_](https://github.com/vanilla-extracts)
