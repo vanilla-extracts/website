@@ -19,7 +19,7 @@ mod blog;
 mod common_css;
 mod icons;
 mod index;
-mod not_found;
+mod lost;
 mod raw;
 mod reviews;
 #[cfg(feature = "server")]
@@ -185,8 +185,9 @@ fn asset<'asset>(
             Path::new(util::bump::alloc_str_concat(bump, &[output, "/index.html"])),
             templater.clone(),
         ),
-        not_found::asset(
+        lost::asset(
             "template/404.hbs".as_ref(),
+            "src/404.md".as_ref(),
             Path::new(util::bump::alloc_str_concat(bump, &[output, "/404.html"])),
             templater,
         ),
