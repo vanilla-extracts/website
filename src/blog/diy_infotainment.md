@@ -4,13 +4,13 @@
 # DIY Android Auto Infotainment Screen
 
 ## Goal and motivation {#goal}
-My father had two old netbook with barely enough RAM and storage to be useful
+My father had two old netbooks with barely enough RAM and storage to be useful
 (and which could absolutely not run modern Window.)
 
-We thought about upcycling them, install a modern linux distribution on it, and
-give it to someone who could use a small and not very powerful computer. 
+We thought about upcycling them, install a modern linux distribution, and
+giving them to someone who could use a small and not very powerful computer. 
 
-But then we had another idea, my parents have two cars:
+But then we had another idea, see, my parents have two cars:
 - A beautiful 2020 Hybrid Toyota Corolla Break in a colour my parents insist is *ebene*
   which is a woody dark brown; ~don't tell them but it looks black from afar~.
   With a decent Android Auto experience, and overall is a pleasure to ride, I am
@@ -21,11 +21,11 @@ But then we had another idea, my parents have two cars:
   it has confidence in their skills. 
 
 Well, the Corolla is mostly used by my mum, for reasons she prefers the
-automatic transmission (we live in France, most of our car are still using
+automatic transmission (we live in France, most of our cars are still using
 manual transmissions).
 
 The Panda does not have any infotainment -- being old and all -- and my dad
-sometimes uses it to go pick mushroom (a important hobby of his, he blogs his
+sometimes uses it to go pick mushrooms (a important hobby of his, he blogs his
 mushroom adventures on his [mastodon profile (in french)](https://mastoot.fr/@atheach) -- as well as saying
 a "good morning" _every_ morning.)
 
@@ -93,6 +93,11 @@ This is the computer fully disassembled. The keyboard is off-screen.
 This is what the keyboard ribbon cable looks like. We decided to keep the
 keyboard connected, just completely folded.
 
+### Computer folded {#folded}
+[![Folded](/static/folded.jpg)](/static/folded.jpg)
+
+The computer is then folded to look like a Tablet.
+
 ## Step 3: Necessary Softwares {#software}
 
 This is the part where I am the most capable in, and the part where I really
@@ -103,8 +108,8 @@ infotainment system.
 
 ### AGL: Automotive Grade Linux. {#agl}
 
-The first thing which came up in my researchs was _Automotive Grade Linux
-(AGL)_. This is a bunch of software which builds a custom kernel and one can use
+The first thing which came up in my research was _Automotive Grade Linux
+(AGL)_. This is a bunch of softwares which build a custom kernel and one can use
 the library to create an interface.
 
 To test it, I compiled the "sample". And launched it in _QEMU_.
@@ -136,7 +141,7 @@ But it turns out you can just connect it to a phone and using it like regular
 old android auto. It works just like the real thing. Just need a couple _adb_
 commands as well as a manipulation on the phone.
 
-#### Get the Android Auto Desktop Head Unit. {#aadhu}
+### Get the Android Auto Desktop Head Unit. {#aadhu}
 
 There is only one way to get the Android Auto Desktop Head Unit, you need to
 download the _whole_ Android SDK, through _Android Studio_. And then you need
@@ -157,7 +162,7 @@ Binary, as well as the
 
 Shared library.
 
-#### Run and connect the DHU to a Phone {#dhuphone}
+### Run and connect the DHU to a Phone {#dhuphone}
 
 You need to prepare the phone you're connecting to.
 
@@ -190,7 +195,7 @@ And **~~ Voilà ~~**
 
 It works! You have a fully functional Android Auto experience on a laptop.
 
-### Extras {#extras}
+## Extras {#extras}
 Technically you could stop there. But it wouldn't work very well.
 
 We performed a few more steps in order to improve the experience.
