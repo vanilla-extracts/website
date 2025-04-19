@@ -217,8 +217,6 @@ The build at the end of the steps, the keyboard is folded behind the screen.
 
 This is what it looks installed inside of our Panda.
 
-[![In Action](/static/WIP.jpg)](/static/WIP.jpg)
-
 This is still a Work In Progress. You can see we need to adjust the size of the
 Android Auto window to match the size of the whole computer.
 
