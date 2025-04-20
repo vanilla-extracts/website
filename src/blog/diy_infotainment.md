@@ -217,10 +217,8 @@ The build at the end of the steps, the keyboard is folded behind the screen.
 
 This is what it looks installed inside of our Panda.
 
-This is still a Work In Progress. You can see we need to adjust the size of the
-Android Auto window to match the size of the whole computer.
+[![Finished](/static/finished.jpg)](/static/finished.jpg)
 
-## Technical Issues {#issues}
-Having the whole computer folded introduces a lot of issues, the biggest is
-**overheating**. The computer is prone to overheat quickly. We have yet to find
-a solution to this one.
+[![Finished Online](/static/finished_online.jpg)](/static/finished_online.jpg)
+
+It looks like that installed and online aboard the vehicle, ain't it cute?
