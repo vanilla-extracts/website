@@ -2,7 +2,7 @@
 
 ### Bio {#bio}
 
-Hi! My name is Charlotte Thomas, I'm 22 y.o, French, and a Developer, System Admin
+Hi! My name is Charlotte Thomas, I'm 23 y.o, French, and a Developer, System Admin
 (Linux Expert), and general IT Specialist. I have a good job and I like it so if you're a
 recruiter you do not need to send me an email.
 
