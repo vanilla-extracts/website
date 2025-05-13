@@ -32,10 +32,10 @@ I use my laptop docked the vast majority of the time.
   - Apple MagicTrackpad USB-C
   - Keychron K4 Pro QMK
     - Switches: Brown (with one green)
-- 2FA: Two Yubikey 5C NFC
+- 2FA: Two YubiKey 5C NFC
 
 ## Software {#sw}
-Here are the different softwares I use, for more information see [the git page README](https://git.charlotte-thomas.me/vanilla-extracts/.files)
+Here are the different software I use, for more information see [the git page README](https://git.charlotte-thomas.me/vanilla-extracts/.files)
 
 - OS: Fedora Linux Workstation 41
 - WM: [Niri](https://github.com/YaLTeR/niri/) on Wayland
@@ -76,4 +76,5 @@ Here are the different softwares I use, for more information see [the git page R
 
 </center>
 
-*Updated on 2025-03-23*
+EDIT:
+- 2025-05-13: spelling
