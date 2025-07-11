@@ -20,8 +20,7 @@ technique of _pratt-parsing_ from _Calc_ and onwards.
 
 ### Queer {#queer}
 
-I am a queer woman. I am (not-exaustively) lesbian, asexual, and
-demiromantic.
+I am a queer woman. I am (not-exhaustively) lesbian, asexual, and non binary.
 
 If you need help from a queer person, **please**, contact me you can see
 [here](#about-me) how to contact me. Especially if you're in France, I can see where I
@@ -38,11 +37,11 @@ I’m also in the process of writing a novel, based on the old idea of *AGH* but
 from the ground up, with improved prose grammar and everything (including real
 beta-readers!). 
 
-This new novel is _Galactic Consequences_ you can find the [_writing
+This novel is _Galactic Consequences_ you can find the [_writing
 blog_](https://writing.charlotte-thomas.me/blog/) where I post the
 development of the novel. 
 
-The status is currently: *WIP about 33% of the first draft and editting done*
+The status is currently: *WIP about 50% of the first draft and editing done*
 
 ## CV {#cv}
 
@@ -91,7 +90,7 @@ To open the man page just do (depending on the language):
 This website uses the [_Monaspace Neon_](https://monaspace.githubnext.com) font
 for text and _Monaspace Xenon_ for the code.
 
-I may change it if I want to, if you have any suggestions for fonts send me an email at either of these adresses. 
+I may change it if I want to, if you have any suggestions for fonts send me an email at either of these addresses. 
  `web [at] me.charlotte-thomas.me` 
  `me+web [at] charlotte-thomas.me`
 
