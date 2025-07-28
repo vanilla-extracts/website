@@ -12,19 +12,26 @@ I have multiple servers:
 - *Nova* (2vCPU, 4GB of RAM), you guessed it named after the *Nova-class* starships.
 - *Yellowstone* (1vCPU, 2GB of RAM), which is backup server, named after the *Yellowstone-class* of runabouts in Star Trek.
 
+I have another server on Hetzner, it is only used for its sheer reliance to be online 24/7.
+- *Miranda* (2vCPU (shared), 4GB of RAM)
+
 *Ambassador* and *Nova* are hosted in Tours, France. While *Yellowstone* which is the backup server is hosted in Rennes, France. I have a private tunnel between
 the two datacentres, to connect all of these together (for node exporter, nextcloud exporter, and the backups).
 
+*Miranda* is hosted on the Hetzner datacentre in Helsinki, Finland.
+
 I run on *Ambassador*:
 - A [Git Forge](https://git.charlotte-thomas.me/) as well as a runner
-- A [conduwuit (matrix server)](https://github.com/girlbossceo/conduwuit) instance (faefox.dev)
 - An instance of [Cinny (matrix client)](https://client.faefox.dev)
 - A [NextCloud Instance](https://cloud.faefox.dev) (you can request an account by email)
 - A [service status page](https://uptime.faefox.dev)
 
-On Nova there are:
-- A [Grafana](https://monitoring.faefox.dev), which is used to quickly see the health of my servers
+On *Nova* there are:
+- A [Grafana/Prometheus](https://monitoring.faefox.dev), which is used to quickly see the health of my servers
 - The [SharedAgenda](https://git.charlotte-thomas.me/vanilla-extracts/SharedAgenda) API.
+
+And finally on *Miranda*:
+- A [conduwuit (matrix server)](https://github.com/girlbossceo/conduwuit) instance (faefox.dev)
 
 ## CloudFare Page {#page}
 I use CloudFare Page to run a few static websites.
@@ -56,6 +63,7 @@ I have twice daily backups using *restic* on it.
   - *Ambassador*
   - *Nova*
   - *Yellowstone*
+  - *Miranda*
 
 ## Plans for the future {#future}
 In the future, when I have my own home, with my own Network (because I am
@@ -93,3 +101,5 @@ moment.
 
 It won't exists for another year and a half (or more); but it will probably be
 under some subdomains of `charlotte-thomas.me` and/or `faefox.dev`. Probably more `faefox.dev` as we can all agree, it is the funnier one.
+
+EDIT: Add miranda in the servers, 2025-07-28.
