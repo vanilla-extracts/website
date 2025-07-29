@@ -100,4 +100,5 @@ It won't exists for another year and a half (or more); but it will probably be
 under some subdomains of `charlotte-thomas.me` and/or `faefox.dev`. Probably more `faefox.dev` as we can all agree, it is the funnier one.
 
 EDIT: Add miranda in the servers, 2025-07-28.
+
 EDIT: Remove yellowstone from the servers, 2025-07-29
