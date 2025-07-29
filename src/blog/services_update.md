@@ -7,16 +7,14 @@ This is an update to my *services* article I posted a few months ago.
 ## VPS Infrastructure {#vps}
 I have a bigger infrastructure nowadays, it is hosted on [mercurycloud](https://mercurycloud.fr/) which is a small French cloud provider.
 
-I have multiple servers:
+I have multiple servers on mercurycloud.
 - *Ambassador* (8vCPU, 16GB of RAM), named after the *Ambassador-class* starships in Star Trek (all my hostnames are Star Trek starship classes).
 - *Nova* (2vCPU, 4GB of RAM), you guessed it named after the *Nova-class* starships.
-- *Yellowstone* (1vCPU, 2GB of RAM), which is backup server, named after the *Yellowstone-class* of runabouts in Star Trek.
 
 I have another server on Hetzner, it is only used for its sheer reliance to be online 24/7.
 - *Miranda* (2vCPU (shared), 4GB of RAM)
 
-*Ambassador* and *Nova* are hosted in Tours, France. While *Yellowstone* which is the backup server is hosted in Rennes, France. I have a private tunnel between
-the two datacentres, to connect all of these together (for node exporter, nextcloud exporter, and the backups).
+*Ambassador* and *Nova* are hosted in Rennes, France. *Yellowstone* has been discontinued, and is replaced by a S3 bucket on Hetzner.
 
 *Miranda* is hosted on the Hetzner datacentre in Helsinki, Finland.
 
@@ -62,7 +60,6 @@ I have twice daily backups using *restic* on it.
 - VPSes are:
   - *Ambassador*
   - *Nova*
-  - *Yellowstone*
   - *Miranda*
 
 ## Plans for the future {#future}
@@ -103,3 +100,4 @@ It won't exists for another year and a half (or more); but it will probably be
 under some subdomains of `charlotte-thomas.me` and/or `faefox.dev`. Probably more `faefox.dev` as we can all agree, it is the funnier one.
 
 EDIT: Add miranda in the servers, 2025-07-28.
+EDIT: Remove yellowstone from the servers, 2025-07-29
