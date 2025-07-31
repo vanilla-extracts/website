@@ -31,7 +31,7 @@ And finally on *Miranda*:
 - A [conduwuit (matrix server)](https://github.com/girlbossceo/conduwuit) instance (faefox.dev)
 - A [service status page](https://uptime.faefox.dev)
 
-## Backups
+## Backups {#backup}
 Backups are made each day at T0400+0200 on a S3-compatible bucket, hosted somewhere in Europe, but not in France, thus the data I put there is quadruple safe,
 first, it is on my personal computer. Second it is on *Ambassador* on nextcloud. Third it is in the backups of my VPS provider, which puts their data in a glacier somewhere in France.
 And fourth it is on the glacier of the S3-compatible bucket. So for the data to disappear it would need an explosion of some sort in Rennes, a nuke in France, and a nuke in Europe on the second glacier.
