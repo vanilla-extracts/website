@@ -31,6 +31,16 @@ And finally on *Miranda*:
 - A [conduwuit (matrix server)](https://github.com/girlbossceo/conduwuit) instance (faefox.dev)
 - A [service status page](https://uptime.faefox.dev)
 
+## Backups
+Backups are made each day at T0400+0200 on a S3-compatible bucket, hosted somewhere in Europe, but not in France, thus the data I put there is quadruple safe,
+first, it is on my personal computer. Second it is on *Ambassador* on nextcloud. Third it is in the backups of my VPS provider, which puts their data in a glacier somewhere in France.
+And fourth it is on the glacier of the S3-compatible bucket. So for the data to disappear it would need an explosion of some sort in Rennes, a nuke in France, and a nuke in Europe on the second glacier.
+
+I thus decided that we were sufficiently secured, of course if a nuke is launched on France, I might very well die, which mean the fact the data is safe is not very important anymore, because I'd be dead.
+But so is life you know.
+
+And oh yes, it is *also* on my NAS, which will soon have a backup. I'm not paranoid about data retention ;).
+
 ## CloudFare Page {#page}
 I use CloudFare Page to run a few static websites.
 - [Personal Web and Blog](https://www.charlotte-thomas.me)
@@ -97,8 +107,9 @@ updated my Framework. Maybe. So it can change it's just what I'm feeling at the
 moment.
 
 It won't exists for another year and a half (or more); but it will probably be
-under some subdomains of `charlotte-thomas.me` and/or `faefox.dev`. Probably more `faefox.dev` as we can all agree, it is the funnier one.
+under some subdomains of *charlotte-thomas.me* and/or *faefox.dev*. Probably more *faefox.dev* as we can all agree, it is the funnier one.
 
 - EDIT: Add miranda in the servers, 2025-07-28.
-- EDIT: Remove yellowstone from the servers, 2025-07-29
-- EDIT: Moved status page to miranda, 2025-07-30
+- EDIT: Remove yellowstone from the servers, 2025-07-29.
+- EDIT: Moved status page to miranda, 2025-07-30.
+- EDIT: Added backup on S3 bucket, 2025-07-31.
