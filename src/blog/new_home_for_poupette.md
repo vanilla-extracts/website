@@ -1,6 +1,7 @@
 {
   "published": "2025-09-10"
 }
+
 # New home for Poupette
 ## Poupette {#poupette}
 Poupette (in french pronounced like *Poo-Pet*) is a one and a half year old (neutered) female cat.
