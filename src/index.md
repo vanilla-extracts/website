@@ -94,6 +94,19 @@ I may change it if I want to, if you have any suggestions for fonts send me an e
  `web [at] me.charlotte-thomas.me` 
  `me+web [at] charlotte-thomas.me`
 
+## Tutoring { #tutor }
+I am also being a private tutor a few hours a week, I am not allowed to be one for the time being but as soon as I'm allowed I start doing it. 
+
+The website is in construction and is available [here](https://tutoring.charlotte-thomas.me)
+
+I tutor Mathematics, Physics, SI, and Comp Sci for high school students. Mathematics and Comp Sci for first year prépa and university students, and finally I am available as a private tutor for anything computer science related for any ages. 
+
+Prices are relative to the possibility of the person (or their parents) to pay and will range between €15 and €30 an hour depending on the capacity to pay. 
+
+I tutor both in French and in English, in person or remotely, I do charge a premium depending on the distance if the student is not willing to come to my house.
+
+Contact me for more information.
+
 ## About Me { #about-me }
 I am using she/they pronouns and feminine accords. 
 
