@@ -5,7 +5,7 @@
 ## Intro {#intro}
 Welcome to my *blog*!
 
-I have been running a [writing blog](https://writing.charlotte-thomas.me/blog)
+I have been running a [writing blog](https://analgesia.icu/blog)
 for quite some time now but I thought it was _finally_ time to restart my
 general blog!
 
@@ -20,7 +20,7 @@ Here you will find, amongst other things.
 
 What you _won't_ find though (except for some announcements) are any news about
 my writing. All the writing stuff is on my [writing
-page](https://writing.charlotte-thomas.me)
+page](https://analgesia.icu)
 
 ## Services {#services}
 You can see the services I run on the [uptime page](https://uptime.faefox.dev).
@@ -36,7 +36,7 @@ On my Hetzner server
 On CloudFare page
 
 - This [website and blog](https://charlotte-thomas.me)
-- The [writing website and blog](https://writing.charlotte-thomas.me)
+- The [writing website and blog](https://analgesia.icu)
 - [Calc's website](https://calc.charlotte-thomas.me)
 
 ## Roadmap {#roadmap}

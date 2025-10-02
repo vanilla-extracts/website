@@ -32,13 +32,13 @@ Contact me with either of these topic emails, I will be able to answer quicker
 
 ### Writing {#writing}
 
-I am also a [_writer_](https://writing.charlotte-thomas.me). I wrote a short-story. I'm currently writing another one.
+I am also a [_writer_](https://analgesia.icu). I wrote a short-story. I'm currently writing another one.
 I’m also in the process of writing a novel, based on the old idea of *AGH* but rewritten
 from the ground up, with improved prose grammar and everything (including real
 beta-readers!). 
 
 This novel is _Galactic Consequences_ you can find the [_writing
-blog_](https://writing.charlotte-thomas.me/blog/) where I post the
+blog_](https://analgesia.icu/blog/) where I post the
 development of the novel. 
 
 The status is currently: *WIP about 50% of the first draft and editing done*
@@ -97,7 +97,7 @@ I may change it if I want to, if you have any suggestions for fonts send me an e
 ## Tutoring { #tutor }
 I am also being a private tutor a few hours a week, I am not allowed to be one for the time being but as soon as I'm allowed I start doing it. 
 
-The website is in construction and is available [here](https://tutoring.charlotte-thomas.me)
+The website is in construction and is available [here](https://tutorat.me)
 
 I tutor Mathematics, Physics, SI, and Comp Sci for high school students. Mathematics and Comp Sci for first year prépa and university students, and finally I am available as a private tutor for anything computer science related for any ages. 
 
@@ -110,7 +110,7 @@ Contact me for more information.
 ## About Me { #about-me }
 I am using she/they pronouns and feminine accords. 
 
-You can find my [writing website here](https://writing.charlotte-thomas.me),
+You can find my [writing website here](https://analgesia.icu),
 it's the writing log exposing, what I write and associated projects.
 
 You can find me there:
@@ -120,6 +120,7 @@ You can find me there:
 - Discord, as _vanilla_extracts_
 - Matrix as _@me:faefox.dev_
 - Mastodon as _@vanilla_extract@woof.tech_
-- Email regarding my writing, `gc [at] charlotte-thomas.me`
-- General Email, `me [at] charlotte-thomas.me`
+- Email regarding my writing, [`contact@analgesia.icu`](mailto:contact@analgesia.icu)
+- General Email, [`me@charlotte-thomas.me`](mailto:me@charlotte-thomas.me)
+- Tutoring Email, [`charlotte@tutorat.me`](mailto:charlotte@tutorat.me)
 - Topic email, `{topic} [at] me.charlotte-thomas.me` or `me+{topic} [at] charlotte-thomas.me`

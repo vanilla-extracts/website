@@ -19,4 +19,4 @@ It's in public on my [own forge](https://git.charlotte-thomas.me/vanilla-extract
 The API is live at `https://api.sharedagenda.faefox.dev` and I'm hard at work on the TUI. There is a CLI as a client and I may do a Web UI one day.
 
 ## What about writing {#writing}
-Go check my [writing blog](https://writing.charlotte-thomas.me/blog) to see!
+Go check my [writing blog](https:/analgesia.icu/blog) to see!

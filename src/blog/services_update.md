@@ -44,7 +44,7 @@ And oh yes, it is *also* on my NAS, which will soon have a backup. I'm not paran
 ## CloudFare Page {#page}
 I use CloudFare Page to run a few static websites.
 - [Personal Web and Blog](https://www.charlotte-thomas.me)
-- [Writing Web, Blog, and Online Reader (SOON)](https://writing.charlotte-thomas.me)
+- [Writing Web, Blog, and Online Reader (SOON)](https://analgesia.icu)
 - [Calc Web](https://calc.charlotte-thomas.me)
 
 ## Migadu {#image}
