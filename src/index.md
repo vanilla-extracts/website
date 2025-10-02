@@ -120,7 +120,6 @@ You can find me there:
 - Discord, as _vanilla_extracts_
 - Matrix as _@me:faefox.dev_
 - Mastodon as _@vanilla_extract@woof.tech_
-- Email regarding my writing, [`contact@analgesia.icu`](mailto:contact@analgesia.icu)
 - General Email, [`me@charlotte-thomas.me`](mailto:me@charlotte-thomas.me)
 - Tutoring Email, [`charlotte@tutorat.me`](mailto:charlotte@tutorat.me)
 - Topic email, `{topic} [at] me.charlotte-thomas.me` or `me+{topic} [at] charlotte-thomas.me`
