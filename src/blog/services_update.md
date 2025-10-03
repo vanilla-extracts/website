@@ -9,12 +9,11 @@ I have a bigger infrastructure nowadays, it is hosted on [mercurycloud](https://
 
 I have multiple servers on mercurycloud.
 - *Ambassador* (8vCPU, 16GB of RAM), named after the *Ambassador-class* starships in Star Trek (all my hostnames are Star Trek starship classes).
-- *Nova* (2vCPU, 4GB of RAM), you guessed it named after the *Nova-class* starships.
 
 I have another server on Hetzner, it is only used for its sheer reliance to be online 24/7.
 - *Miranda* (2vCPU (shared), 4GB of RAM)
 
-*Ambassador* and *Nova* are hosted in Rennes, France. *Yellowstone* has been discontinued, and is replaced by a S3 bucket on Hetzner.
+*Ambassador* is hosted in Rennes, France. *Yellowstone* and *Nova* have been discontinued, and are replaced by a S3 bucket on Hetzner (and nothing for *Nova*).
 
 *Miranda* is hosted on the Hetzner datacentre in Helsinki, Finland.
 
@@ -22,10 +21,7 @@ I run on *Ambassador*:
 - A [Git Forge](https://git.charlotte-thomas.me/) as well as a runner
 - An instance of [Cinny (matrix client)](https://client.faefox.dev)
 - A [NextCloud Instance](https://cloud.faefox.dev) (you can request an account by email)
-
-On *Nova* there are:
-- A [Grafana/Prometheus](https://monitoring.faefox.dev), which is used to quickly see the health of my servers
-- The [SharedAgenda](https://git.charlotte-thomas.me/vanilla-extracts/SharedAgenda) API.
+- My [Tutoring Website](https://tutorat.me)
 
 And finally on *Miranda*:
 - A [conduwuit (matrix server)](https://github.com/girlbossceo/conduwuit) instance (faefox.dev)
@@ -43,8 +39,8 @@ And oh yes, it is *also* on my NAS, which will soon have a backup. I'm not paran
 
 ## CloudFare Page {#page}
 I use CloudFare Page to run a few static websites.
-- [Personal Web and Blog](https://www.charlotte-thomas.me)
-- [Writing Web, Blog, and Online Reader (SOON)](https://analgesia.icu)
+- [Personal Web, and Blog](https://www.charlotte-thomas.me)
+- [Writing Web, and Blog](https://analgesia.icu)
 - [Calc Web](https://calc.charlotte-thomas.me)
 
 ## Migadu {#image}
@@ -55,6 +51,8 @@ USD a year I have everything I need. I have emails under the following domains.
   - gc
 - *faefox.dev*
   - me
+- *tutorat.me*
+  - charlotte
 
 ## NAS {#nas}
 I have a NAS (2TB on RAID1) running on my **local** network. Its name is *Olympic* (because it
@@ -69,7 +67,6 @@ I have twice daily backups using *restic* on it.
 - My NAS is *Olympic*
 - VPSes are:
   - *Ambassador*
-  - *Nova*
   - *Miranda*
 
 ## Plans for the future {#future}
@@ -113,3 +110,4 @@ under some subdomains of *charlotte-thomas.me* and/or *faefox.dev*. Probably mor
 - EDIT: Remove yellowstone from the servers, 2025-07-29.
 - EDIT: Moved status page to miranda, 2025-07-30.
 - EDIT: Added backup on S3 bucket, 2025-07-31.
+- EDIT: Remove Nova, 2025-10-03.
