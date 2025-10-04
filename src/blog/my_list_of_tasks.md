@@ -138,6 +138,7 @@ But now we can just use *nextmeeting* as if we were using a Google Calendar, the
 The results speak for themselves in term of user friendly-ness
 
 [![waybar nextmeeting](/static/waybar_nextmeeting.png)](/static/waybar_nextmeeting.png)
+
 [![tooltip nextmeeting](/static/tooltip_nextmeeting.png)](/static/tooltip_nextmeeting.png)
 
 ## Afterwords {#after}
