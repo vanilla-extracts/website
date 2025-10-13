@@ -94,7 +94,7 @@ To open the man page just do (depending on the language):
 This website uses the [_Monaspace Neon_](https://monaspace.githubnext.com) font
 for text and _Monaspace Xenon_ for the code.
 
-I may change it if I want to, if you have any suggestions for fonts send me an email at this topic email *me+web@charlotte-thomas.me*
+I may change it if I want to, if you have any suggestions for fonts send me an email at this topic email [*me+web@charlotte-thomas.me*](mailto:me+web@charlotte-thomas.me)
 
 ## Tutoring { #tutor }
 I am also being a private tutor a few hours a week, I am not allowed to be one for the time being but as soon as I'm allowed I start doing it.
