@@ -30,8 +30,8 @@ If you need help from a queer person, **please**, contact me you can see
 can help you, do not hesitate to reach out, I answer pretty quickly.
 
 Contact me with either of these topic emails, I will be able to answer quicker
-- *me+queer@charlotte-thomas.me*
-- *me+help@charlotte-thomas.me*
+- [*me+queer@charlotte-thomas.me*](mailto:me+queer@charlotte-thomas.me)
+- [*me+help@charlotte-thomas.me*](mailto:me+help@charlotte-thomas.me)
 
 ### Writing {#writing}
 
@@ -107,13 +107,10 @@ Prices are relative to the possibility of the person (or their parents) to pay a
 
 I tutor both in French and in English, in person or remotely, I do charge a premium depending on the distance if the student is not willing to come to my house.
 
-Contact me for more information.
+Contact me at [*charlotte@tutorat.me*](mailto:charlotte@tutorat.me) for more information.
 
 ## About Me { #about-me }
 I am using she/they pronouns and feminine accords. 
-
-You can find my [writing website here](https://analgesia.icu),
-it's the writing log exposing, what I write and associated projects.
 
 You can find me there:
 - [GitHub, as _vanilla-extracts_](https://github.com/vanilla-extracts)
@@ -124,4 +121,4 @@ You can find me there:
 - Fediverse as _@vanilla_extract@woof.tech_
 - General Email, [*me@charlotte-thomas.me*](mailto:me@charlotte-thomas.me)
 - Tutoring Email, [*charlotte@tutorat.me*](mailto:charlotte@tutorat.me)
-- Topic email, *{topic} [at] me.charlotte-thomas.me* or *me+{topic} [at] charlotte-thomas.me*
+- Topic email, *{topic}@me.charlotte-thomas.me* or *me+{topic}@charlotte-thomas.me*
