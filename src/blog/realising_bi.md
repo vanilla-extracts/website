@@ -3,8 +3,6 @@
 }
 # So I'm not a lesbian
 
-Trigger Warning: mention of SA and r*pe
-
 ## Being a lesbian {#lesbian}
 Immediately after I came out about my gender I thought I was a lesbian, I was a girl (or close to it anyway) and I always liked girls so easy right I'm a lesbian?
 
@@ -28,7 +26,7 @@ There's even a moment in my life, very brief thankfully, where I thought I was s
 
 Well, to be honest I spent a lot of time wondering what I was, I rationalised everything as being hormonal or just me wanting to feel feminine and hid myself under the guise of lesbianism to be safe.
 
-Even if it didn't help me at some times in my life (I have been SAed and r*ped). 
+Even if it didn't help me at some times in my life.
 
 My preferences change every 6 months to a year, and I finally accepted that. I also think of girls and guys differently (enbies kind of go everywhere).
 
