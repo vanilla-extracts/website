@@ -85,12 +85,9 @@ The source code (Typst file, Typst template, and man pages) of my CV can be foun
 
 To open the man page just do (depending on the language):
 
-```bash
-$ curl https://www.charlotte-thomas.me/static/cv_fr.man | man -l -
+`$ curl https://www.charlotte-thomas.me/static/cv_fr.man | man -l -`
 
-$ curl https://www.charlotte-thomas.me/static/cv_en.man | man -l -
-```
-
+`$ curl https://www.charlotte-thomas.me/static/cv_en.man | man -l -`
 
 ## Font {#font}
 
