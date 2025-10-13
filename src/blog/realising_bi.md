@@ -51,6 +51,8 @@ I'm not delusional, I know no one reads this blog, and I'm okay with that, it's 
 
 But if in the future when I'm famous you happen to read this blog, well I hope I'm doing well in the future. I hope I have a good girlfriend, voidfriend, or boyfriend (or multiple of them). Maybe I'll even have a husband, a wife or a spouse. I'll still work my dream job and teach on the side and I'll be in my lovely apartment, which is *mine*.
 
+Btw, my micro-blogging is available [on the fediverse *@vanilla_extract@woof.tech](https://woof.tech/@vanilla_extract)
+
 Thanks for (not) reading,
 
 Cheers,
