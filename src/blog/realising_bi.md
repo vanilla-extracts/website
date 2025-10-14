@@ -3,6 +3,8 @@
 }
 # So I'm not a lesbian
 
+If your reaction is "not surprising" know that I'm pouting.
+
 ## Being a lesbian {#lesbian}
 Immediately after I came out about my gender I thought I was a lesbian, I was a girl (or close to it anyway) and I always liked girls so easy right I'm a lesbian?
 
