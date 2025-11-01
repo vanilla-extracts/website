@@ -9,6 +9,9 @@ recruiter you do not need to send me an email.
 Same if you're looking for a developer to commission please search someone else
 I'm not your gal.
 
+If you're looking for a tutor in math or computer science please go [to my dedicated tutoring website (FR)](https://tutorat.me)
+
+
 I love a variety of language, my languages of choice nowadays are **_Rust_** and
 _**OCaml**_. Although I do like a plethora of other languages. 
 
@@ -20,22 +23,23 @@ technique of _pratt-parsing_ from _Calc_ and onwards.
 
 ### Queer {#queer}
 
-I am a queer woman. I am (not-exhaustively) lesbian, asexual, and non binary.
+I am a queer woman. I am (not-exhaustively) biromantic, demisexual, and non binary.
 
 If you need help from a queer person, **please**, contact me you can see
 [here](#about-me) how to contact me. Especially if you're in France, I can see where I
 can help you, do not hesitate to reach out, I answer pretty quickly.
 
 Contact me with either of these topic emails, I will be able to answer quicker
-`{queer|help} [at] me.charlotte-thomas.me`
-`me+{queer|help} [at] charlotte-thomas.me`
+- [*me+queer@charlotte-thomas.me*](mailto:me+queer@charlotte-thomas.me)
+- [*me+help@charlotte-thomas.me*](mailto:me+help@charlotte-thomas.me)
 
 ### Writing {#writing}
 
-I am also a [_writer_](https://analgesia.icu). I wrote a short-story. I'm currently writing another one.
+I am also a [_writer_](https://analgesia.icu). I wrote two short-stories.
+
 I’m also in the process of writing a novel, based on the old idea of *AGH* but rewritten
 from the ground up, with improved prose grammar and everything (including real
-beta-readers!). 
+beta-readers!). I'm reading grammar books in order to find that.
 
 This novel is _Galactic Consequences_ you can find the [_writing
 blog_](https://analgesia.icu/blog/) where I post the
@@ -81,21 +85,19 @@ The source code (Typst file, Typst template, and man pages) of my CV can be foun
 
 To open the man page just do (depending on the language):
 
-`curl https://www.charlotte-thomas.me/static/cv_fr.man | man -l -` 
-`curl https://www.charlotte-thomas.me/static/cv_en.man | man -l -`
+`$ curl https://www.charlotte-thomas.me/static/cv_fr.man | man -l -`
 
+`$ curl https://www.charlotte-thomas.me/static/cv_en.man | man -l -`
 
 ## Font {#font}
 
 This website uses the [_Monaspace Neon_](https://monaspace.githubnext.com) font
 for text and _Monaspace Xenon_ for the code.
 
-I may change it if I want to, if you have any suggestions for fonts send me an email at either of these addresses. 
- `web [at] me.charlotte-thomas.me` 
- `me+web [at] charlotte-thomas.me`
+I may change it if I want to, if you have any suggestions for fonts send me an email at this topic email [*me+web@charlotte-thomas.me*](mailto:me+web@charlotte-thomas.me)
 
 ## Tutoring { #tutor }
-I am also being a private tutor a few hours a week, I am not allowed to be one for the time being but as soon as I'm allowed I start doing it. 
+I am also being a private tutor a few hours a week, I am not allowed to be one for the time being but as soon as I'm allowed I start doing it.
 
 The website is in construction and is available [here](https://tutoring.charlotte-thomas.me)
 
@@ -105,13 +107,10 @@ Prices are relative to the possibility of the person (or their parents) to pay a
 
 I tutor both in French and in English, in person or remotely, I do charge a premium depending on the distance if the student is not willing to come to my house.
 
-Contact me for more information.
+Contact me at [*charlotte@tutorat.me*](mailto:charlotte@tutorat.me) for more information.
 
 ## About Me { #about-me }
 I am using she/they pronouns and feminine accords. 
-
-You can find my [writing website here](https://analgesia.icu),
-it's the writing log exposing, what I write and associated projects.
 
 You can find me there:
 - [GitHub, as _vanilla-extracts_](https://github.com/vanilla-extracts)
@@ -119,6 +118,6 @@ You can find me there:
 - [My forge as _vanilla-extracts_](https://git.charlotte-thomas.me/vanilla-extracts)
 - Discord, as _vanilla_extracts_
 - Matrix as _@me:faefox.dev_
-- Mastodon as _@vanilla_extract@woof.tech_
 - General Email, [`me@charlotte-thomas.me`](mailto:me@charlotte-thomas.me)
 - Topic email, `{topic} [at] me.charlotte-thomas.me` or `me+{topic} [at] charlotte-thomas.me`
+- Fediverse as _@vanilla_extract@woof.tech_
