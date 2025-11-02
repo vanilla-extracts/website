@@ -99,7 +99,7 @@ I may change it if I want to, if you have any suggestions for fonts send me an e
 ## Tutoring { #tutor }
 I am also being a private tutor a few hours a week, I am not allowed to be one for the time being but as soon as I'm allowed I start doing it.
 
-The website is in construction and is available [here](https://tutoring.charlotte-thomas.me)
+The website is in construction and is available [here](https://tutorat.me)
 
 I tutor Mathematics, Physics, SI, and Comp Sci for high school students. Mathematics and Comp Sci for first year prépa and university students, and finally I am available as a private tutor for anything computer science related for any ages. 
 
@@ -119,5 +119,6 @@ You can find me there:
 - Discord, as _vanilla_extracts_
 - Matrix as _@me:faefox.dev_
 - General Email, [`me@charlotte-thomas.me`](mailto:me@charlotte-thomas.me)
+- Tutoring Email, [`charlotte@tutorat.me`](mailto:charlotte@tutorat.me)
 - Topic email, `{topic} [at] me.charlotte-thomas.me` or `me+{topic} [at] charlotte-thomas.me`
 - Fediverse as _@vanilla_extract@woof.tech_
