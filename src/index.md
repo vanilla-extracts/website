@@ -122,3 +122,9 @@ You can find me there:
 - Tutoring Email, [`charlotte@tutorat.me`](mailto:charlotte@tutorat.me)
 - Topic email, `{topic} [at] me.charlotte-thomas.me` or `me+{topic} [at] charlotte-thomas.me`
 - Fediverse as _@vanilla_extract@woof.tech_
+
+## Interesting internet-beings {#links}
+A list of people I like on the internet (or IRL) and their website
+- [Léana](https://confusedcompiler.org)
+- [Eragon](https://eragon.re)
+- [Vivien](https://vivien.no)
