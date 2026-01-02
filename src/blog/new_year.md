@@ -1,5 +1,5 @@
 {
- "published": "2025-01-02"
+ "published": "2026-01-02"
 }
 # Happy New Year
 ## It's 2026 {#2026}
