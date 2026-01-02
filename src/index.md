@@ -128,3 +128,4 @@ A list of people I like on the internet (or IRL) and their website
 - [Léana](https://confusedcompiler.org)
 - [Eragon](https://eragon.re)
 - [Vivien](https://vivien.no)
+- [Ash](https://www.ash.dev/)
