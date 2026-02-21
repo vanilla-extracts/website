@@ -79,7 +79,7 @@ A list of people (and/or friends) I like on the internet (or IRL) and their webs
 - [Oror, without whom I wouldn't have my job](https://blog.borale.si/about/)
 
 ## Changelog {#changelog}
-### 2026-02-21
+### 2026-02-21 {#saturday_twenty_first_february_twenty_twenty_six}
 Initialisation of the changelog.
 
 - Modification of [contact info](#about-me), replacement of _Matrix_ by _XMPP_, deletion of some older stuff, less links.
