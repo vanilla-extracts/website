@@ -59,7 +59,7 @@ To open the man page just do (depending on the language):
 ## About Me { #about-me }
 I am using she/they pronouns and feminine accords. 
 
-### You can find/contact me there:
+You can find/contact me there:
 - [GitHub, _vanilla-extracts_](https://github.com/vanilla-extracts)
 - [My forge, _vanilla-extracts_](https://git.charlotte-thomas.me/vanilla-extracts)
 - Discord, _vanilla_extracts_
