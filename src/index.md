@@ -2,50 +2,21 @@
 
 ### Bio {#bio}
 
-Hi! My name is Charlotte Thomas, I'm 23 y.o, French, and a Developer, System Admin
-(Linux Expert), and general IT Specialist. I have a good job and I like it so if you're a
-recruiter you do not need to send me an email.
-
-Same if you're looking for a developer to commission please search someone else
-I'm not your gal.
-
-If you're looking for a tutor in math or computer science please go [to my dedicated tutoring website (FR)](https://tutorat.me)
-
+Hi! My name is Charlotte, I'm 23 y.o, French, and a Developer, and general IT Specialist.
 
 I love a variety of language, my languages of choice nowadays are **_Rust_** and
-_**OCaml**_. Although I do like a plethora of other languages. 
+_**OCaml**_. Although I do like a plethora of other languages. I particularly like writing CLI tools and parsers.
 
-My favourite projects are [Calc](https://git.charlotte-thomas.me/vanilla-extracts/calc) and
-[BaguetteSharp](https://github.com/vanilla-extracts/ocaml-baguettesharp-interpreter).
-
-I like writing parsers, interpreters, and compilers. I settled into a basic
-technique of _pratt-parsing_ from _Calc_ and onwards.
-
-### Queer {#queer}
+My favourite project is [Calc](https://git.charlotte-thomas.me/vanilla-extracts/calc), an algebraic calculator made in Rust.
 
 I am a queer woman. I am (not-exhaustively) biromantic, demisexual, and non binary.
 
-If you need help from a queer person, **please**, contact me you can see
-[here](#about-me) how to contact me. Especially if you're in France, I can see where I
-can help you, do not hesitate to reach out, I answer pretty quickly.
+I also am a small time writer in my alone time, you can find more information on the [dedicated website](https://analgesia.icu)
 
-Contact me with either of these topic emails, I will be able to answer quicker
-- [*me+queer@charlotte-thomas.me*](mailto:me+queer@charlotte-thomas.me)
-- [*me+help@charlotte-thomas.me*](mailto:me+help@charlotte-thomas.me)
+The big project is a novel, _Galactic Consequences_ you can find the [_writing
+blog_](https://analgesia.icu/blog/) where the news are published. 
 
-### Writing {#writing}
-
-I am also a [_writer_](https://analgesia.icu). I wrote two short-stories.
-
-I’m also in the process of writing a novel, based on the old idea of *AGH* but rewritten
-from the ground up, with improved prose grammar and everything (including real
-beta-readers!). I'm reading grammar books in order to find that.
-
-This novel is _Galactic Consequences_ you can find the [_writing
-blog_](https://analgesia.icu/blog/) where I post the
-development of the novel. 
-
-The status is currently: *WIP about 50% of the first draft and editing done*
+Its status is currently: *WIP about 50% of the first draft and editing done*
 
 ## CV {#cv}
 
@@ -63,19 +34,15 @@ The status is currently: *WIP about 50% of the first draft and editing done*
 
 ### III. Academia & al {#academia}
 
-- May 2024 - July 2024: Research internship, _Inria Rennes, EPICURE_, morphological recognition of plants. 
+- May 2024 - July 2024: Research internship, _Centre Inria de l'Université de Rennes, EPICURE_, morphological recognition of plants. 
 
-- Feb. 2023 - July 2023: Research internship, _Inria Rennes, PACAP_, FDM 3D printing optimisation.
+- Feb. 2023 - July 2023: Research internship, _Centre Inria de l'Université de Rennes, PACAP_, FDM 3D printing optimisation.
 
 - Oct. 2023: Radio Talk on the importance of free software in universities and in my life [here (in french)](https://cause-commune.fm/podcast/libre-a-vous-187/).
 
-- June 2023: Talk on joke programming language for fun (BaguetteSharp).
-
-- Feb. 2023: Flash Talk on joke programming language for academic usage and secondary education (BaguetteSharp).
-
 ### A. Full CV {#fcv}
 
-You can find my CV on the following format here:
+My CV is available in two languages and in PDF/Man Page:
 - [French PDF](static/cv_fr.pdf),
 - [English PDF](static/cv_en.pdf),
 - [French Man Page](static/cv_fr.man),
@@ -89,43 +56,39 @@ To open the man page just do (depending on the language):
 
 `$ curl https://www.charlotte-thomas.me/static/cv_en.man | man -l -`
 
-## Font {#font}
-
-This website uses the [_Monaspace Neon_](https://monaspace.githubnext.com) font
-for text and _Monaspace Xenon_ for the code.
-
-I may change it if I want to, if you have any suggestions for fonts send me an email at this topic email [*me+web@charlotte-thomas.me*](mailto:me+web@charlotte-thomas.me)
-
-## Tutoring { #tutor }
-I am also being a private tutor a few hours a week, I am not allowed to be one for the time being but as soon as I'm allowed I start doing it.
-
-The website is in construction and is available [here](https://tutorat.me)
-
-I tutor Mathematics, Physics, SI, and Comp Sci for high school students. Mathematics and Comp Sci for first year prépa and university students, and finally I am available as a private tutor for anything computer science related for any ages. 
-
-Prices are relative to the possibility of the person (or their parents) to pay and will range between €15 and €30 an hour depending on the capacity to pay. 
-
-I tutor both in French and in English, in person or remotely, I do charge a premium depending on the distance if the student is not willing to come to my house.
-
-Contact me at [*charlotte@tutorat.me*](mailto:charlotte@tutorat.me) for more information.
-
 ## About Me { #about-me }
 I am using she/they pronouns and feminine accords. 
 
-You can find me there:
-- [GitHub, as _vanilla-extracts_](https://github.com/vanilla-extracts)
-- [Codeberg as _vanilla-extracts_](https://codeberg.org/vanilla-extracts)
-- [My forge as _vanilla-extracts_](https://git.charlotte-thomas.me/vanilla-extracts)
-- Discord, as _vanilla_extracts_
-- Matrix as _@me:faefox.dev_
-- General Email, [`me@charlotte-thomas.me`](mailto:me@charlotte-thomas.me)
-- Tutoring Email, [`charlotte@tutorat.me`](mailto:charlotte@tutorat.me)
-- Topic email, `{topic} [at] me.charlotte-thomas.me` or `me+{topic} [at] charlotte-thomas.me`
-- Fediverse as _@vanilla_extract@woof.tech_
+### You can find/contact me there:
+- [GitHub, _vanilla-extracts_](https://github.com/vanilla-extracts)
+- [My forge, _vanilla-extracts_](https://git.charlotte-thomas.me/vanilla-extracts)
+- Discord, _vanilla_extracts_
+- XMPP, _charlotte@xmpp.faefox.dev_
+- Email, [_me@charlotte-thomas.me_](mailto:me@charlotte-thomas.me)
+- Fediverse, [_@vanilla_extract@woof.tech_](https://woof.tech/@vanilla_extract)
 
 ## Interesting internet-beings {#links}
-A list of people I like on the internet (or IRL) and their website
-- [Léana](https://confusedcompiler.org)
-- [Eragon](https://eragon.re)
-- [Vivien](https://vivien.no)
-- [Ash](https://www.ash.dev/)
+A list of people (and/or friends) I like on the internet (or IRL) and their website
+- [Léana, Haskell Genius](https://confusedcompiler.org)
+- [Eragon, Cute Dragoness](https://eragon.re)
+- [Vivien, Toki Pona Witch](https://vivien.no)
+- [Ash, Software engineer extraordinaire](https://www.ash.dev/)
+- [Elsa, The _best_ GM](https://www.freakstic.fr/)
+- [Lux, Rust Warlock](https://vulpinecitrus.info/)
+- [Soblow, Indigo Dragoness](https://xaselgio.net/)
+- [Oror, without whom I wouldn't have my job](https://blog.borale.si/about/)
+
+## Changelog {#changelog}
+### 2026-02-21
+Initialisation of the changelog.
+
+- Modification of [contact info](#about-me), replacement of _Matrix_ by _XMPP_, deletion of some older stuff, less links.
+- Modification of [the links](#links), addition of a little tiny teeny description for each person.
+  - Addition of _Elsa_, _Lux_, _Soblow_, and _Oror_ in the list of internet people I like.
+- Collapsing of several sub categories which used to be under [base](#base), into the [bio](#bio).
+  - Removing most of _Queer_, and _Writing_.
+  - Removal of _Tutoring_.
+- Removing _Fonts_.
+- Removing all occurrences of my tutoring side-business (I closed the company).
+- Rewriting of [CV](#cv) to simplify it.
+- Removing all occurrences of BaguetteSharp
