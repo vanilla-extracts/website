@@ -14,9 +14,9 @@ This server (name *starbaseone*) is a modified M5 PLUS box, with the following s
 
 I installed Proxmox VE on it and created two VMs
 - *Galaxy* which like its namesake is the replacement of *Ambassador*
-  - With 8 threads; 20GB of RAM; and 256GB of storage
+  - With 8 threads; 16GiB of RAM; and 256GB of storage
 - *Daystrom* which is a internal network only VM made to run Home Assistant.
-  - With 4 threads; 8GB of RAM; and 32GB of storage
+  - With 4 threads; 4GiB of RAM; and 32GB of storage
   
 ## VPS Infrastructure {#vps}
 I run on *Galaxy*:
