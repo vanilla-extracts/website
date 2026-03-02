@@ -19,33 +19,19 @@ I installed Proxmox VE on it and created two VMs
   - With 4 threads; 8GB of RAM; and 32GB of storage
   
 ## VPS Infrastructure {#vps}
-My main VPS is *Galaxy*.
-
-I have another server on Hetzner, it is only used for its sheer reliance to be online 24/7.
-- *Miranda* (2vCPU (shared), 4GB of RAM)
-
-*Miranda* is hosted on the Hetzner datacentre in Helsinki, Finland.
-
 I run on *Galaxy*:
 - A [Git Forge](https://git.charlotte-thomas.me/) as well as a runner
 - An instance of [Cinny (matrix client)](https://client.faefox.dev)
 - A [NextCloud Instance](https://cloud.faefox.dev) (you can request an account by email)
-- My [Home Page](https://home.faefox.dev)
 - A [LLDAP Instance](https://auth.faefox.dev)
 - A [Jitsi Instance](https://meet.tutorat.me)
-- My [ActualBudget server](https://actual-server.faefox.dev)
 - A [Tinyauth server](https://sso.faefox.dev)
 - A [Whiteboard](https://whiteboard.faefox.dev)
-- Monitoring
-  - Prometheus
-  - [Grafana](https://grafana.faefox.dev)
+- A [XMPP instance](https://xmpp.faefox.dev)
+- A [Matrix homeserver](https://faefox.dev)
+- A [Maloja instance](https://maloja.faefox.dev) 
 
 Then on *Daystrom* there is the [Home Assistant](https://home-assistant.io) instance of the flat.
-
-And finally on *Miranda*:
-- A [conduwuit (matrix server)](https://github.com/girlbossceo/conduwuit) instance (faefox.dev)
-- A [service status page](https://uptime.faefox.dev)
-- My [Tutoring Website](https://tutorat.me)
 
 ## Backups {#backup}
 Backups are made each day at T0400 Europe/Paris on a S3-compatible bucket.
@@ -55,8 +41,6 @@ For the data to completely disappear it would need an explosion of some sort in 
 I thus decided that we were sufficiently secured, of course if a nuke is launched on France, I might very well die, which mean the fact the data is safe is not very important anymore, because I'd be dead.
 But so is life you know.
 
-And oh yes, it is *also* on my NAS, which will soon have a backup. I'm not paranoid about data retention ;).
-
 ## Hostnames {#hostnames}
 - My personal laptop is *Defiant* (because it's tough, and little)
 - My personal phone is *Danube-II* (I replaced my trusty *S21* by a *S24 FE*)
@@ -64,7 +48,6 @@ And oh yes, it is *also* on my NAS, which will soon have a backup. I'm not paran
 - My baremetal server is *StarbaseOne*
 - VPSes are:
   - *Galaxy*
-  - *Miranda*
   - *Daystrom*
 
 ## Plans for the future {#future}
