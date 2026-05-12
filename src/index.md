@@ -2,7 +2,7 @@
 
 ### Bio {#bio}
 
-Hi! My name is Charlotte, I'm 23 y.o, French, and a Developer, and general IT Specialist.
+Hi! My name is Charlotte, I'm 24 y.o, French, and a Developer, and general IT Specialist.
 
 I love a variety of language, my languages of choice nowadays are **_Rust_** and
 _**OCaml**_. Although I do like a plethora of other languages. I particularly like writing CLI tools and parsers.
